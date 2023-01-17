@@ -19,7 +19,7 @@ function App() {
     return (
       <Router>
           <Routes>
-              <Route path="dio-clone-react/"element={<Home />} />
+              <Route path="dio-clone-react/" element={<Home />} exact />
               <Route path="dio-clone-react/login" element={<Login />} exact />
           </Routes>
       </Router>
