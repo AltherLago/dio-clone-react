@@ -5,6 +5,7 @@ import {
     Routes,
     Route,
     // Link,
+    // Quando criou um link por algum motivo voltou a funcionar...
     // useRouteMatch,
     // useParams
 } from "react-router-dom";
