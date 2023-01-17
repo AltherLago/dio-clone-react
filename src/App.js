@@ -9,17 +9,17 @@ import {
     // useParams
 } from "react-router-dom";
 
-import { Home } from "./pages/home";
+import {Home} from "./pages/home";
 
-import { Login } from "./pages/login";
+import {Login} from "./pages/login";
 
 
 function App() {
     return (
       <Router>
           <Routes>
-              <Route path="/" element={<Home />}/>
-              <Route path="login" element={<Login />}/>
+              <Route index element={<Home />} />
+              <Route path="login" element={<Login />} exact />
           </Routes>
       </Router>
     );
@@ -28,3 +28,4 @@ function App() {
 export default App;
 
 // <Route index element={<Home1 />}/>
+
