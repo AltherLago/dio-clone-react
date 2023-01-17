@@ -19,8 +19,8 @@ function App() {
     return (
       <Router>
           <Routes>
-              <Route index element={<Home />} />
-              <Route path="login" element={<Login />} exact />
+              <Route path="dio-clone-react/"element={<Home />} />
+              <Route path="dio-clone-react/login" element={<Login />} exact />
           </Routes>
       </Router>
     );
