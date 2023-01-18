@@ -1,8 +1,10 @@
+import { Link } from "react-router-dom"
+
 const Home = () => {
   return(
         <>
             <h1>Home</h1>
-            <button>Voltar para home</button>
+            <Link to="/dio-clone-react/login">Do Login</Link>
         </>
         
   )
