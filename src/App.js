@@ -24,5 +24,4 @@ function App() {
 
 export default App;
 
-// <Route index element={<Home1 />}/>
 
