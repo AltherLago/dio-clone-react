@@ -34,3 +34,11 @@ export const BuscarInputContainer = styled.div`
     margin: 0 12px;
     display: flex;
 `
+
+export const Input = styled.input`
+    background: transparent;
+    flex: 1;
+    border: 0;
+    color: #FFFFFF;
+`
+
