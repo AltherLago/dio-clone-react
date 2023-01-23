@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dio-clone-react/static/js/main.11864a35.js",
+    "main.js": "/dio-clone-react/static/js/main.f7ad9066.js",
     "index.html": "/dio-clone-react/index.html",
-    "main.11864a35.js.map": "/dio-clone-react/static/js/main.11864a35.js.map"
+    "main.f7ad9066.js.map": "/dio-clone-react/static/js/main.f7ad9066.js.map"
   },
   "entrypoints": [
-    "static/js/main.11864a35.js"
+    "static/js/main.f7ad9066.js"
   ]
 }
