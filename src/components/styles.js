@@ -42,3 +42,12 @@ export const Input = styled.input`
     color: #FFFFFF;
 `
 
+export const Menu = styled.a`
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-right: 12px;
+`
